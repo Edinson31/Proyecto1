@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\AplicacionCalculadora\\AplicacionCalculadora\\AplicacionCalculadora.csproj": {}
+    "C:\\Users\\Edinson\\Source\\Repos\\Proyecto1\\AplicacionCalculadora\\AplicacionCalculadora\\AplicacionCalculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\AplicacionCalculadora\\AplicacionCalculadora\\AplicacionCalculadora.csproj": {
+    "C:\\Users\\Edinson\\Source\\Repos\\Proyecto1\\AplicacionCalculadora\\AplicacionCalculadora\\AplicacionCalculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\AplicacionCalculadora\\AplicacionCalculadora\\AplicacionCalculadora.csproj",
+        "projectUniqueName": "C:\\Users\\Edinson\\Source\\Repos\\Proyecto1\\AplicacionCalculadora\\AplicacionCalculadora\\AplicacionCalculadora.csproj",
         "projectName": "AplicacionCalculadora",
-        "projectPath": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\AplicacionCalculadora\\AplicacionCalculadora\\AplicacionCalculadora.csproj",
-        "packagesPath": "C:\\Users\\Jose J\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose J\\source\\repos\\jimenez-jose\\ds4\\AplicacionCalculadora\\AplicacionCalculadora\\obj\\",
+        "projectPath": "C:\\Users\\Edinson\\Source\\Repos\\Proyecto1\\AplicacionCalculadora\\AplicacionCalculadora\\AplicacionCalculadora.csproj",
+        "packagesPath": "C:\\Users\\Edinson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Edinson\\Source\\Repos\\Proyecto1\\AplicacionCalculadora\\AplicacionCalculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jose J\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Edinson\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -78,7 +78,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
